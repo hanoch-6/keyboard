@@ -1,0 +1,8 @@
+/hardware-backups
+
+
+*.err
+
+*.xml
+
+*.pdf
