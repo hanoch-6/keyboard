@@ -1,0 +1,314 @@
+Source:,C:\Users\hanoch\Documents\Sync doc\personal project\keyboard\hardware\hardware.kicad_sch,,,,,,,,,
+Date:,2022/12/9 21:43,,,,,,,,,
+Tool:,Eeschema (6.0.7),,,,,,,,,
+Generator:,C:\Program Files\KiCad\6.0\bin\scripting\plugins/bom_csv_grouped_by_value.py,,,,,,,,,
+Component Count:,260,,,,,,,,,
+,,,,,,,,,,
+Individual Components:,,,,,,,,,,
+,,,,,,,,,,
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet,Description,Height,Manufacturer_Name,Manufacturer_Part_Number
+,,C1,C,Device:C,Capacitor_SMD:C_0603_1608Metric,~,,,,
+,,C2,4.7nF,Device:C,Capacitor_SMD:C_0603_1608Metric,~,,,,
+,,C3,4.7nF,Device:C,Capacitor_SMD:C_0603_1608Metric,~,,,,
+,,C4,22pF,Device:C,Capacitor_SMD:C_0603_1608Metric,~,,,,
+,,C5,22pF,Device:C,Capacitor_SMD:C_0603_1608Metric,~,,,,
+,,C6,0.1uF,Device:C,Capacitor_SMD:C_0603_1608Metric,~,,,,
+,,C7,100nF,Device:C,Capacitor_SMD:C_0603_1608Metric,~,,,,
+,,C8,104,Device:C,Capacitor_SMD:C_0603_1608Metric,~,,,,
+,,C9,104,Device:C,Capacitor_SMD:C_0603_1608Metric,~,,,,
+,,C10,0.1uF,Device:C,Capacitor_SMD:C_0603_1608Metric,~,,,,
+,,C11,0.1uF,Device:C,Capacitor_SMD:C_0603_1608Metric,~,,,,
+,,C12,0.1uF,Device:C,Capacitor_SMD:C_0603_1608Metric,~,,,,
+,,C13,0.1uF,Device:C,Capacitor_SMD:C_0603_1608Metric,~,,,,
+,,C14,22pF,Device:C,Capacitor_SMD:C_0603_1608Metric,~,,,,
+,,C15,22pF,Device:C,Capacitor_SMD:C_0603_1608Metric,~,,,,
+,,C16,0.1uF,Device:C,Capacitor_SMD:C_0603_1608Metric,~,,,,
+,,C17,1uF,Device:C,Capacitor_SMD:C_0603_1608Metric,~,,,,
+,,C18,10uF,pspice:CAP,Capacitor_SMD:C_1206_3216Metric,~,,,,
+,,D1,1N4148W,Diode:1N4148W,Diode_SMD:D_SOD-123,https://www.vishay.com/docs/85748/1n4148w.pdf,,,,
+,,D2,LED,Device:LED,LED_SMD:LED_0805_2012Metric,~,,,,
+,,D3,1N4007,Device:D,Diode_SMD:D_SOD-123F,~,,,,
+,,D4,LED,Device:LED,LED_SMD:LED_0805_2012Metric,~,,,,
+,,D5,1N4007,Device:D,Diode_SMD:D_SOD-123F,~,,,,
+,,J1,FPC,FPC-0.5mm-6PIN:68710614022,EnergyVortex:FPC-0.5mm-6PIN,,,,,
+,,J2,Conn_02x04_Odd_Even,Connector_Generic:Conn_02x04_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical,~,,,,
+,,J3,Conn_01x04,Connector_Generic:Conn_01x04,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,~,,,,
+,,J4,USB_C_Receptacle_USB2.0,EnergyVortex:USB_C_Receptacle_USB2.0,EnergyVortex:USB_C_Receptacle_HRO_TYPE-C-31-M-12,https://www.usb.org/sites/default/files/documents/usb_type-c.zip,,,,
+,,J5,USB_C_Receptacle_USB2.0,EnergyVortex:USB_C_Receptacle_USB2.0,EnergyVortex:USB_C_Receptacle_HRO_TYPE-C-31-M-12,https://www.usb.org/sites/default/files/documents/usb_type-c.zip,,,,
+,,J6,Conn_02x18_Odd_Even,Connector_Generic:Conn_02x18_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x18_P2.54mm_Vertical,~,,,,
+,,JP1,SolderJumper_2_Open,Jumper:SolderJumper_2_Open,Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm,~,,,,
+,,JP2,SolderJumper_2_Open,Jumper:SolderJumper_2_Open,Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm,~,,,,
+,,LED1,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED2,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED3,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED4,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED5,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED6,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED7,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED8,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED9,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED10,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED11,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED12,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED13,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED14,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED15,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED16,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED17,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED18,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED19,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED20,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED21,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED22,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED23,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED24,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED25,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED26,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED27,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED28,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED29,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED30,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED31,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED32,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED33,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED34,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED35,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED36,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED37,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED38,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED39,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED40,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED41,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED42,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED43,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED44,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED45,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED46,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED47,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED48,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED49,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED50,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED51,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED52,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED53,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED54,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED55,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED56,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED57,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED58,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED59,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED60,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED61,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED62,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED63,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED64,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED65,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED66,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED67,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED68,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED69,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED70,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED71,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED72,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED73,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED74,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED75,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED76,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED77,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED78,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED79,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED80,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED81,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED82,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED83,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED84,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED85,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED86,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED87,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,LED88,WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+,,Q1,S8550,Transistor_BJT:S8550,Package_TO_SOT_SMD:SOT-23,http://www.unisonic.com.tw/datasheet/S8550.pdf,,,,
+,,Q2,S8050,Transistor_BJT:S8050,Package_TO_SOT_SMD:SOT-23,http://www.unisonic.com.tw/datasheet/S8050.pdf,,,,
+,,R1,1K,Device:R,Resistor_SMD:R_0603_1608Metric,~,,,,
+,,R2,1K,Device:R,Resistor_SMD:R_0603_1608Metric,~,,,,
+,,R3,20,Device:R,Resistor_SMD:R_0603_1608Metric,~,,,,
+,,R4,10K,Device:R,Resistor_SMD:R_0603_1608Metric,~,,,,
+,,R5,2k,Device:R,Resistor_SMD:R_0603_1608Metric,~,,,,
+,,R6,1k,Device:R,Resistor_SMD:R_0603_1608Metric,~,,,,
+,,R7,1k,Device:R,Resistor_SMD:R_0603_1608Metric,~,,,,
+,,R8,1k,Device:R,Resistor_SMD:R_0603_1608Metric,~,,,,
+,,R9,10K,Device:R,Resistor_SMD:R_0603_1608Metric,~,,,,
+,,R10,10K,Device:R,Resistor_SMD:R_0603_1608Metric,~,,,,
+,,R11,2k,Device:R,Resistor_SMD:R_0603_1608Metric,~,,,,
+,,R12,2k,Device:R,Resistor_SMD:R_0603_1608Metric,~,,,,
+,,R13,22,Device:R,Resistor_SMD:R_0603_1608Metric,~,,,,
+,,R14,22,Device:R,Resistor_SMD:R_0603_1608Metric,~,,,,
+,,R15,1.5K,Device:R,Resistor_SMD:R_0603_1608Metric,~,,,,
+,,R16,10k,Device:R,Resistor_SMD:R_0603_1608Metric,~,,,,
+,,R17,10k,Device:R,Resistor_SMD:R_0603_1608Metric,~,,,,
+,,RN1,10K,Device:R_Network08,Resistor_SMD:R_Array_Convex_8x0602,http://www.vishay.com/docs/31509/csc.pdf,,,,
+,,RN2,10K,Device:R_Network08,Resistor_SMD:R_Array_Convex_8x0602,http://www.vishay.com/docs/31509/csc.pdf,,,,
+,,RN3,10K,Device:R_Network08,Resistor_SMD:R_Array_Convex_8x0602,http://www.vishay.com/docs/31509/csc.pdf,,,,
+,,RN4,10K,Device:R_Network08,Resistor_SMD:R_Array_Convex_8x0602,http://www.vishay.com/docs/31509/csc.pdf,,,,
+,,RN5,10K,Device:R_Network08,Resistor_SMD:R_Array_Convex_8x0602,http://www.vishay.com/docs/31509/csc.pdf,,,,
+,,RN6,10K,Device:R_Network08,Resistor_SMD:R_Array_Convex_8x0602,http://www.vishay.com/docs/31509/csc.pdf,,,,
+,,RN7,10K,Device:R_Network08,Resistor_SMD:R_Array_Convex_8x0602,http://www.vishay.com/docs/31509/csc.pdf,,,,
+,,RN8,10K,Device:R_Network08,Resistor_SMD:R_Array_Convex_8x0602,http://www.vishay.com/docs/31509/csc.pdf,,,,
+,,RN9,R_Pack04,Device:R_Pack04,Resistor_SMD:R_Array_Convex_4x0603,~,,,,
+,,RN10,10K,Device:R_Network08,Resistor_SMD:R_Array_Convex_8x0602,http://www.vishay.com/docs/31509/csc.pdf,,,,
+,,RN11,10K,Device:R_Network08,Resistor_SMD:R_Array_Convex_8x0602,http://www.vishay.com/docs/31509/csc.pdf,,,,
+,,RN12,10K,Device:R_Network08,Resistor_SMD:R_Array_Convex_8x0602,http://www.vishay.com/docs/31509/csc.pdf,,,,
+,,RN13,10K,Device:R_Network08,Resistor_SMD:R_Array_Convex_8x0602,http://www.vishay.com/docs/31509/csc.pdf,,,,
+,,S1,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S2,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S3,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S4,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S5,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S6,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S7,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S8,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S9,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S10,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S11,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S12,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S13,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S14,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S15,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S16,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S17,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S18,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S19,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S20,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S21,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S22,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S23,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S24,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S25,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S26,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S27,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S28,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S29,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S30,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S31,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S32,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S33,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S34,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S35,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S36,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S37,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S38,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S39,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S40,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S41,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S42,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S43,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S44,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S45,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S46,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S47,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S48,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S49,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S50,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S51,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S52,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S53,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S54,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S55,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S56,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S57,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S58,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S59,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S60,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S61,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S62,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S63,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S64,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S65,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S66,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S67,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S68,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S69,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S70,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S71,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S72,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S73,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S74,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S75,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S76,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S77,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S78,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S79,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S80,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S81,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S82,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S83,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S84,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S85,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S86,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S87,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S88,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S89,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,S90,SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+,,SW1,SW_Push,Switch:SW_Push,Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm,~,,,,
+,,U1,74HC165,74HC165:74HC165,EnergyVortex:SO-16,,,,,
+,,U2,74HC165,74HC165:74HC165,EnergyVortex:SO-16,,,,,
+,,U3,74HC165,74HC165:74HC165,EnergyVortex:SO-16,,,,,
+,,U4,74HC165,74HC165:74HC165,EnergyVortex:SO-16,,,,,
+,,U5,74HC165,74HC165:74HC165,EnergyVortex:SO-16,,,,,
+,,U6,74HC165,74HC165:74HC165,EnergyVortex:SO-16,,,,,
+,,U7,74HC165,74HC165:74HC165,EnergyVortex:SO-16,,,,,
+,,U8,74HC165,74HC165:74HC165,EnergyVortex:SO-16,,,,,
+,,U9,74HC165,74HC165:74HC165,EnergyVortex:SO-16,,,,,
+,,U10,74HC165,74HC165:74HC165,EnergyVortex:SO-16,,,,,
+,,U11,XW06A,EnergyVortex:XW06A,Package_SO:SOIC-16_3.9x9.9mm_P1.27mm,http://www.datasheet5.com/pdf-local-2195953,,,,
+,,U12,74HC165,74HC165:74HC165,EnergyVortex:SO-16,,,,,
+,,U13,74HC165,74HC165:74HC165,EnergyVortex:SO-16,,,,,
+,,U14,STM32F103RBTx,MCU_ST_STM32F1:STM32F103RBTx,Package_QFP:LQFP-64_10x10mm_P0.5mm,http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00161566.pdf,,,,
+,,U15,CH340G,Interface_USB:CH340G,Package_SO:SOIC-16_3.9x9.9mm_P1.27mm,http://www.datasheet5.com/pdf-local-2195953,,,,
+,,U16,XC6210B332MR,Regulator_Linear:XC6210B332MR,Package_TO_SOT_SMD:SOT-23-5,https://www.torexsemi.com/file/xc6210/XC6210.pdf,,,,
+,,Y1,8M,Device:Crystal,Crystal:Crystal_SMD_Qantek_QC5CB-2Pin_5x3.2mm,~,,,,
+,,Y2,12M,Device:Crystal,Crystal:Crystal_SMD_Qantek_QC5CB-2Pin_5x3.2mm,~,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Collated Components:,,,,,,,,,,
+,,,,,,,,,,
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet,Description,Height,Manufacturer_Name,Manufacturer_Part_Number
+1,1,C1,C,Device:C,Capacitor_SMD:C_0603_1608Metric,~,,,,
+2,2,"C2, C3",4.7nF,Device:C,Capacitor_SMD:C_0603_1608Metric,~,,,,
+3,4,"C4, C5, C14, C15",22pF,Device:C,Capacitor_SMD:C_0603_1608Metric,~,,,,
+4,6,"C6, C10, C11, C12, C13, C16",0.1uF,Device:C,Capacitor_SMD:C_0603_1608Metric,~,,,,
+5,1,C7,100nF,Device:C,Capacitor_SMD:C_0603_1608Metric,~,,,,
+6,2,"C8, C9",104,Device:C,Capacitor_SMD:C_0603_1608Metric,~,,,,
+7,1,C17,1uF,Device:C,Capacitor_SMD:C_0603_1608Metric,~,,,,
+8,1,C18,10uF,pspice:CAP,Capacitor_SMD:C_1206_3216Metric,~,,,,
+9,1,D1,1N4148W,Diode:1N4148W,Diode_SMD:D_SOD-123,https://www.vishay.com/docs/85748/1n4148w.pdf,,,,
+10,2,"D2, D4",LED,Device:LED,LED_SMD:LED_0805_2012Metric,~,,,,
+11,2,"D3, D5",1N4007,Device:D,Diode_SMD:D_SOD-123F,~,,,,
+12,1,J1,FPC,FPC-0.5mm-6PIN:68710614022,EnergyVortex:FPC-0.5mm-6PIN,,,,,
+13,1,J2,Conn_02x04_Odd_Even,Connector_Generic:Conn_02x04_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical,~,,,,
+14,1,J3,Conn_01x04,Connector_Generic:Conn_01x04,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,~,,,,
+15,2,"J4, J5",USB_C_Receptacle_USB2.0,EnergyVortex:USB_C_Receptacle_USB2.0,EnergyVortex:USB_C_Receptacle_HRO_TYPE-C-31-M-12,https://www.usb.org/sites/default/files/documents/usb_type-c.zip,,,,
+16,1,J6,Conn_02x18_Odd_Even,Connector_Generic:Conn_02x18_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x18_P2.54mm_Vertical,~,,,,
+17,2,"JP1, JP2",SolderJumper_2_Open,Jumper:SolderJumper_2_Open,Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm,~,,,,
+18,88,"LED1, LED2, LED3, LED4, LED5, LED6, LED7, LED8, LED9, LED10, LED11, LED12, LED13, LED14, LED15, LED16, LED17, LED18, LED19, LED20, LED21, LED22, LED23, LED24, LED25, LED26, LED27, LED28, LED29, LED30, LED31, LED32, LED33, LED34, LED35, LED36, LED37, LED38, LED39, LED40, LED41, LED42, LED43, LED44, LED45, LED46, LED47, LED48, LED49, LED50, LED51, LED52, LED53, LED54, LED55, LED56, LED57, LED58, LED59, LED60, LED61, LED62, LED63, LED64, LED65, LED66, LED67, LED68, LED69, LED70, LED71, LED72, LED73, LED74, LED75, LED76, LED77, LED78, LED79, LED80, LED81, LED82, LED83, LED84, LED85, LED86, LED87, LED88",WS2812B-2020,EnergyVortex:WS2812B-2020,EnergyVortex:WS2812B2020,https://www.alldatasheet.com/datasheet-pdf/pdf/1134522/WORLDSEMI/WS2812B-2020.html,LED; SMD; 2020; RGB; 2x2x0.84mm; 3.75.3V; Lens: transparent; 2kHz,0.84,Worldsemi,WS2812B-2020
+19,1,Q1,S8550,Transistor_BJT:S8550,Package_TO_SOT_SMD:SOT-23,http://www.unisonic.com.tw/datasheet/S8550.pdf,,,,
+20,1,Q2,S8050,Transistor_BJT:S8050,Package_TO_SOT_SMD:SOT-23,http://www.unisonic.com.tw/datasheet/S8050.pdf,,,,
+21,2,"R1, R2",1K,Device:R,Resistor_SMD:R_0603_1608Metric,~,,,,
+22,1,R3,20,Device:R,Resistor_SMD:R_0603_1608Metric,~,,,,
+23,3,"R4, R9, R10",10K,Device:R,Resistor_SMD:R_0603_1608Metric,~,,,,
+24,3,"R5, R11, R12",2k,Device:R,Resistor_SMD:R_0603_1608Metric,~,,,,
+25,3,"R6, R7, R8",1k,Device:R,Resistor_SMD:R_0603_1608Metric,~,,,,
+26,2,"R13, R14",22,Device:R,Resistor_SMD:R_0603_1608Metric,~,,,,
+27,1,R15,1.5K,Device:R,Resistor_SMD:R_0603_1608Metric,~,,,,
+28,2,"R16, R17",10k,Device:R,Resistor_SMD:R_0603_1608Metric,~,,,,
+29,12,"RN1, RN2, RN3, RN4, RN5, RN6, RN7, RN8, RN10, RN11, RN12, RN13",10K,Device:R_Network08,Resistor_SMD:R_Array_Convex_8x0602,http://www.vishay.com/docs/31509/csc.pdf,,,,
+30,1,RN9,R_Pack04,Device:R_Pack04,Resistor_SMD:R_Array_Convex_4x0603,~,,,,
+31,90,"S1, S2, S3, S4, S5, S6, S7, S8, S9, S10, S11, S12, S13, S14, S15, S16, S17, S18, S19, S20, S21, S22, S23, S24, S25, S26, S27, S28, S29, S30, S31, S32, S33, S34, S35, S36, S37, S38, S39, S40, S41, S42, S43, S44, S45, S46, S47, S48, S49, S50, S51, S52, S53, S54, S55, S56, S57, S58, S59, S60, S61, S62, S63, S64, S65, S66, S67, S68, S69, S70, S71, S72, S73, S74, S75, S76, S77, S78, S79, S80, S81, S82, S83, S84, S85, S86, S87, S88, S89, S90",SW_Push,Switch:SW_Push,EnergyVortex:CHERRY-MX-LED,~,,,,
+32,1,SW1,SW_Push,Switch:SW_Push,Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm,~,,,,
+33,12,"U1, U2, U3, U4, U5, U6, U7, U8, U9, U10, U12, U13",74HC165,74HC165:74HC165,EnergyVortex:SO-16,,,,,
+34,1,U11,XW06A,EnergyVortex:XW06A,Package_SO:SOIC-16_3.9x9.9mm_P1.27mm,http://www.datasheet5.com/pdf-local-2195953,,,,
+35,1,U14,STM32F103RBTx,MCU_ST_STM32F1:STM32F103RBTx,Package_QFP:LQFP-64_10x10mm_P0.5mm,http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00161566.pdf,,,,
+36,1,U15,CH340G,Interface_USB:CH340G,Package_SO:SOIC-16_3.9x9.9mm_P1.27mm,http://www.datasheet5.com/pdf-local-2195953,,,,
+37,1,U16,XC6210B332MR,Regulator_Linear:XC6210B332MR,Package_TO_SOT_SMD:SOT-23-5,https://www.torexsemi.com/file/xc6210/XC6210.pdf,,,,
+38,1,Y1,8M,Device:Crystal,Crystal:Crystal_SMD_Qantek_QC5CB-2Pin_5x3.2mm,~,,,,
+39,1,Y2,12M,Device:Crystal,Crystal:Crystal_SMD_Qantek_QC5CB-2Pin_5x3.2mm,~,,,,
